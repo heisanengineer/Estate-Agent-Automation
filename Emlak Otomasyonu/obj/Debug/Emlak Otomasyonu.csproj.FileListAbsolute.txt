@@ -1,0 +1,52 @@
+D:\Emlak Otomasyonu\Emlak Otomasyonu\Emlak Otomasyonu\bin\Debug\Emlak Otomasyonu.exe
+D:\Emlak Otomasyonu\Emlak Otomasyonu\Emlak Otomasyonu\bin\Debug\Emlak Otomasyonu.pdb
+D:\Emlak Otomasyonu\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak Otomasyonu.csprojResolveAssemblyReference.cache
+D:\Emlak Otomasyonu\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak_Otomasyonu.Properties.Resources.resources
+D:\Emlak Otomasyonu\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak Otomasyonu.csproj.GenerateResource.Cache
+D:\Emlak Otomasyonu\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak Otomasyonu.exe
+D:\Emlak Otomasyonu\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak Otomasyonu.pdb
+D:\Emlak Otomasyonu\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak_Otomasyonu.frmKullanicigiris.resources
+D:\Emlak Otomasyonu\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak_Otomasyonu.Form2.resources
+C:\Users\Onurcan\Desktop\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak Otomasyonu.exe
+C:\Users\Onurcan\Desktop\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak Otomasyonu.pdb
+C:\Users\Onurcan\Desktop\Emlak Otomasyonu\Emlak Otomasyonu\bin\Debug\Emlak Otomasyonu.exe
+C:\Users\Onurcan\Desktop\Emlak Otomasyonu\Emlak Otomasyonu\bin\Debug\Emlak Otomasyonu.pdb
+C:\Users\Onurcan\Desktop\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Onurcan\Desktop\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak_Otomasyonu.frmKullanicigiris.resources
+C:\Users\Onurcan\Desktop\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak_Otomasyonu.Form2.resources
+C:\Users\Onurcan\Desktop\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak_Otomasyonu.Form3.resources
+C:\Users\Onurcan\Desktop\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak_Otomasyonu.Properties.Resources.resources
+C:\Users\Onurcan\Desktop\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Barbaros\Desktop\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak Otomasyonu.exe
+C:\Users\Barbaros\Desktop\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak Otomasyonu.pdb
+C:\Users\Barbaros\Documents\Visual Studio 2012\Projects\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak Otomasyonu.exe
+C:\Users\Barbaros\Documents\Visual Studio 2012\Projects\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak Otomasyonu.pdb
+C:\Users\Barbaros\Documents\Visual Studio 2012\Projects\Emlak Otomasyonu\Emlak Otomasyonu\bin\Debug\Emlak Otomasyonu.exe
+C:\Users\Barbaros\Documents\Visual Studio 2012\Projects\Emlak Otomasyonu\Emlak Otomasyonu\bin\Debug\Emlak Otomasyonu.pdb
+C:\Users\Barbaros\Documents\Visual Studio 2012\Projects\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Barbaros\Documents\Visual Studio 2012\Projects\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak_Otomasyonu.frmKullanicigiris.resources
+C:\Users\Barbaros\Documents\Visual Studio 2012\Projects\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak_Otomasyonu.Form2.resources
+C:\Users\Barbaros\Documents\Visual Studio 2012\Projects\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak_Otomasyonu.Form3.resources
+C:\Users\Barbaros\Documents\Visual Studio 2012\Projects\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak_Otomasyonu.Properties.Resources.resources
+C:\Users\Barbaros\Documents\Visual Studio 2012\Projects\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\GörkemGenar\Desktop\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak Otomasyonu.exe
+C:\Users\GörkemGenar\Desktop\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak Otomasyonu.pdb
+C:\Users\GörkemGenar\Desktop\Emlak Otomasyonu\Emlak Otomasyonu\bin\Debug\Emlak Otomasyonu.exe
+C:\Users\GörkemGenar\Desktop\Emlak Otomasyonu\Emlak Otomasyonu\bin\Debug\Emlak Otomasyonu.pdb
+C:\Users\GörkemGenar\Desktop\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\GörkemGenar\Desktop\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak_Otomasyonu.frmKullanicigiris.resources
+C:\Users\GörkemGenar\Desktop\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak_Otomasyonu.Form2.resources
+C:\Users\GörkemGenar\Desktop\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak_Otomasyonu.Form3.resources
+C:\Users\GörkemGenar\Desktop\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak_Otomasyonu.Properties.Resources.resources
+C:\Users\GörkemGenar\Desktop\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Barbo\Documents\Visual Studio 2013\Projects\Emlak Otomasyonu\Emlak Otomasyonu\bin\Debug\Emlak Otomasyonu.exe.config
+C:\Users\Barbo\Documents\Visual Studio 2013\Projects\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak Otomasyonu.exe
+C:\Users\Barbo\Documents\Visual Studio 2013\Projects\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak Otomasyonu.pdb
+C:\Users\Barbo\Documents\Visual Studio 2013\Projects\Emlak Otomasyonu\Emlak Otomasyonu\bin\Debug\Emlak Otomasyonu.exe
+C:\Users\Barbo\Documents\Visual Studio 2013\Projects\Emlak Otomasyonu\Emlak Otomasyonu\bin\Debug\Emlak Otomasyonu.pdb
+C:\Users\Barbo\Documents\Visual Studio 2013\Projects\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Barbo\Documents\Visual Studio 2013\Projects\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak_Otomasyonu.frmKullanicigiris.resources
+C:\Users\Barbo\Documents\Visual Studio 2013\Projects\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak_Otomasyonu.Form2.resources
+C:\Users\Barbo\Documents\Visual Studio 2013\Projects\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak_Otomasyonu.Form3.resources
+C:\Users\Barbo\Documents\Visual Studio 2013\Projects\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak_Otomasyonu.Properties.Resources.resources
+C:\Users\Barbo\Documents\Visual Studio 2013\Projects\Emlak Otomasyonu\Emlak Otomasyonu\obj\Debug\Emlak Otomasyonu.csproj.GenerateResource.Cache
